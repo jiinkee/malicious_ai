@@ -16,5 +16,5 @@ The perturbation techniques that are presented in the Colab include:
 - Least Significant Bit Steganography
 
 ## How to run the code?
-You can create a new notebook in [Google Colaboratory](https://colab.research.google.com/), and upload the IPYNB to your notebook. GPU usage is highly recommended.
+You can create a new notebook in [Google Colaboratory](https://colab.research.google.com/), and git clone this repo. GPU usage is highly recommended.
 
